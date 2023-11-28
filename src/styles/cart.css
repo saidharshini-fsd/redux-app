@@ -12,12 +12,13 @@
   .cart_box img {
     width: 300px;
     height: 300px;
+    
 
   }
   .cart_img {
     display: flex;
     width: 300px;
-    justify-content: center;
+
   }
   
   .cart_img p {
